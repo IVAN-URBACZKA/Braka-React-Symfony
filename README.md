@@ -9,8 +9,11 @@ commerciale pour les ajouts de produits.
 ### Technos :
 
 Symphony 5
+
 React 16
+
 Axios
+
 TailwindCss
 
 
